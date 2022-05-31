@@ -1,5 +1,7 @@
-# LearningGroebnerPolyAddDeepValueModel
-Code for recreating the analyses from ``[Learning a performance metric of Buchberger’s algorithm](https://arxiv.org/abs/2106.03676)" by Jelena Mojsilović, Dylan Peifer, Sonja Petrović. 
+# Learning Groebner value model 
+
+This folder contains code for recreating the analyses from ``[Learning a performance metric of Buchberger’s algorithm](https://arxiv.org/abs/2106.03676)" by Jelena Mojsilović, Dylan Peifer, Sonja Petrović. The goal is to predict the number of polynomial additions when computing Gr\"obner bases using Buchberger's algorithm.
+
 
 The python code for both regression and network training is [here](https://github.com/Sondzus/LearningGBvaluemodel). 
 
